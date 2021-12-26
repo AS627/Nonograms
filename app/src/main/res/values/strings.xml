@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Nonograms</string>
+    <string-array name="puzzles">
+        <item>Select a puzzle!</item>
+        <item>Random</item>
+<!--        <item>Challen</item>-->
+<!--        <item>Nunu</item>-->
+<!--        <item>Mystery</item>-->
+    </string-array>
+</resources>
